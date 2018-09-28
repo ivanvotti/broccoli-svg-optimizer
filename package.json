@@ -32,7 +32,7 @@
     "svgo": "0.6.6"
   },
   "devDependencies": {
-    "broccoli": "^1.1.4",
+    "broccoli": "^2.0.0",
     "broccoli-fixture": "^1.0.0",
     "chai": "^4.1.2",
     "chai-as-promised": "^7.1.1",
